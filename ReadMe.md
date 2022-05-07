@@ -1,4 +1,4 @@
-<img  width="1200" alt="WALLPAPERSJAMI" src="https://user-images.githubusercontent.com/105096060/167243314-3261439b-3b08-4cde-8ece-d368de043bd2.png">
+<img  width="1000" alt="WALLPAPERSJAMI" src="https://user-images.githubusercontent.com/105096060/167243314-3261439b-3b08-4cde-8ece-d368de043bd2.png">
 
 <h2>Hi there 👋, I'm BILAL JAMI</h2>
 Hello, I am from Lahore, Pakistan, and a Software Developer & Designer passionate about creating amazing stuff for the Developer's side.
